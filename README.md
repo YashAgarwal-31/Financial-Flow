@@ -89,7 +89,7 @@ Users can:
 
 ---
 
-# 📸 Screenshots (Portfolio View)
+## 📸 Screenshots (Portfolio View)
 
 <table>
 <tr>
@@ -122,13 +122,13 @@ Users can:
 
 ## ⚙️ Getting Started  
 
-### Prerequisites  
+### 📋 Prerequisites  
 - Node.js (v18+)  
 - npm  
 
 ---
 
-### Installation  
+### 🔧 Installation  
 
 ```bash
 git clone https://github.com/your-username/financeflow.git
@@ -136,35 +136,12 @@ cd financeflow
 npm install
 npm run dev
 
-📁 1. Project Structure (IMPORTANT)
+
+## 📁 Project Structure  
+
+
 src/
 ├── app/
 ├── components/
 ├── lib/
 ├── hooks/
-
-
-🚧 3. Limitations (VERY IMPORTANT FOR INTERVIEW)
-## 🚧 Limitations  
-
-- Frontend-only project  
-- Uses mock/static data  
-- No backend or authentication  
-
-🔮 4. Future Enhancements
-## 🔮 Future Enhancements  
-
-- User authentication  
-- Backend integration  
-- Real-time database  
-- Advanced analytics 
-
-👨‍💻 6. Author Section
-## 👨‍💻 Author  
-
-Yash Agarwal  
-
-⭐ 7. Support Section (optional but good)
-## ⭐ Support  
-
-If you like this project, give it a ⭐ on GitHub!
