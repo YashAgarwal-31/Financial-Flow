@@ -136,5 +136,33 @@ cd financeflow
 npm install
 npm run dev
 ````
-hi
+📁 Project Structure
+src/
+├── app/
+├── components/
+├── lib/
+├── hooks/
+🚧 Limitations
+Frontend-only project
+Uses mock/static data
+No backend or authentication
+🔮 Future Enhancements
+User authentication
+Backend integration
+Real-time database
+Advanced analytics
+🧠 What I Learned
+Building scalable React applications
+Designing modern dashboards
+Managing UI and state
+Creating data visualizations
+👨‍💻 Author
+
+Yash Agarwal
+
+⭐ Support
+
+If you like this project, give it a ⭐ on GitHub!
+
+<!-- 🔥 Footer --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer"/> </p> ```
 
