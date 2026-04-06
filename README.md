@@ -142,22 +142,25 @@ src/
 ├── components/
 ├── lib/
 ├── hooks/
+
 🚧 Limitations
 Frontend-only project
 Uses mock/static data
 No backend or authentication
+
 🔮 Future Enhancements
 User authentication
 Backend integration
 Real-time database
 Advanced analytics
+
 🧠 What I Learned
 Building scalable React applications
 Designing modern dashboards
 Managing UI and state
 Creating data visualizations
-👨‍💻 Author
 
+👨‍💻 Author
 Yash Agarwal
 
 ⭐ Support
