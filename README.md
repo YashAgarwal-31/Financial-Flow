@@ -135,7 +135,6 @@ git clone https://github.com/your-username/financeflow.git
 cd financeflow
 npm install
 npm run dev
-
-
-## 📁 Project Structure  
+````
+hi
 
