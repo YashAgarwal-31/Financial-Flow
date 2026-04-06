@@ -138,10 +138,12 @@ npm run dev
 ````
 📁 Project Structure
 src/
+
 ├── app/
 ├── components/
 ├── lib/
 ├── hooks/
+
 
 🚧 Limitations
 Frontend-only project
