@@ -5,7 +5,7 @@
 
 <!-- 🔥 Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=6C63FF&size=25&center=true&vCenter=true&width=600&lines=Smart+Finance+Dashboard;Track+Expenses+%7C+Manage+Goals;Built+with+React+%2B+TypeScript;Zorvyn+Assignment+Project"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=6C63FF&size=25&center=true&vCenter=true&width=650&lines=Smart+Finance+Dashboard;Track+Expenses+%7C+Manage+Goals;Analytics+%7C+Investments+%7C+Bills;Built+with+React+%2B+TypeScript;Zorvyn+Assignment+Project"/>
 </p>
 
 <!-- 🔥 Badges -->
@@ -22,13 +22,13 @@
 
 # 💰 FinanceFlow – Smart Personal Finance Dashboard  
 
-## 📌 Assignment Submission  
+## 📌 Zorvyn Assignment  
 
 This project is developed as part of a **technical assignment for Zorvyn Company**.  
 
-It showcases:
+It demonstrates:
 - ⚛️ Modern React development  
-- 🎨 Clean and responsive UI/UX  
+- 🎨 Clean UI/UX design  
 - 📊 Data visualization & dashboards  
 - 🧠 Scalable frontend architecture  
 
@@ -36,7 +36,7 @@ It showcases:
 
 ## 🌐 Live Demo  
 
-🚀 **https://your-vercel-link.vercel.app/**  
+🚀 **https://v0-financial-dashboard-project-five.vercel.app/**  
 
 ---
 
@@ -50,59 +50,55 @@ It showcases:
 
 ## 📖 About the Project  
 
-**FinanceFlow** is a modern financial management dashboard designed to help users track and analyze their financial activities in a visually engaging way.
+**FinanceFlow** is a modern personal finance dashboard that helps users track, manage, and analyze their financial activities.
 
-The goal of this project is to simulate a **real-world finance application UI** with:
-- Interactive dashboards  
-- Dynamic charts  
-- Clean user experience  
+The application provides:
+- 📊 Real-time financial overview  
+- 💸 Expense tracking  
+- 🎯 Goal monitoring  
+- 📈 Data-driven insights  
 
 ---
 
-## ✨ Core Features  
+## ✨ Features  
 
 ### 📊 Dashboard  
-- Animated financial summary cards  
+- Animated summary cards  
 - Balance, income & expense tracking  
-- Monthly trend visualization  
+- Monthly trend charts  
 
 ### 💸 Transactions  
-- Add, filter, and manage transactions  
-- Category-based classification  
-- Search & sorting functionality  
+- Add, filter, search transactions  
+- Category-based organization  
 
 ### 🧾 Bills  
-- Track recurring bills  
-- Overdue notifications  
-- Payment status indicators  
+- Recurring bills tracking  
+- Overdue alerts  
 
 ### 🎯 Goals  
-- Create savings goals  
-- Visual progress tracking  
-- Deadline monitoring  
+- Savings goal tracking  
+- Progress visualization  
 
 ### 📈 Analytics  
-- Income vs Expense comparison  
+- Income vs Expense charts  
 - Spending insights  
-- Financial trends  
 
 ### 🏦 Accounts  
 - Net worth tracking  
-- Asset management  
+- Asset & liability management  
 
 ### 💼 Investments  
-- Portfolio overview  
-- Gain/Loss insights  
+- Portfolio tracking  
+- Gain/Loss analysis  
 
 ---
 
 ## 🎨 UI / UX Highlights  
 
-- 🌙 Dark / Light mode support  
+- 🌙 Dark mode UI  
 - ⚡ Smooth animations  
 - 📱 Fully responsive design  
-- 🧩 Reusable components  
-- 🎯 Clean modern layout  
+- 🧩 Component-based architecture  
 
 ---
 
@@ -135,12 +131,26 @@ The goal of this project is to simulate a **real-world finance application UI** 
   <img src="./screenshots/S4.jpg" width="45%">
 </p>
 
+<p align="center">
+  <img src="./screenshots/S5.jpg" width="45%">
+  <img src="./screenshots/S6.jpg" width="45%">
+</p>
+
+<p align="center">
+  <img src="./screenshots/S7.jpg" width="45%">
+  <img src="./screenshots/S8.jpg" width="45%">
+</p>
+
+<p align="center">
+  <img src="./screenshots/S9.jpg" width="45%">
+  <img src="./screenshots/S10.jpg" width="45%">
+</p>
+
 ---
 
 ## ⚙️ Getting Started  
 
 ### 📋 Prerequisites  
-
 - Node.js (v18+)  
 - npm or yarn  
 
