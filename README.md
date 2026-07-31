@@ -21,10 +21,6 @@
 
 # 💰 FinanceFlow – Smart Personal Finance Dashboard  
 
-## 📌 Zorvyn Assignment  
-
-This project is developed as part of a **technical assignment for Zorvyn Company**.  
-
 It showcases:
 - ⚛️ Modern React architecture  
 - 🎨 Clean and responsive UI  
